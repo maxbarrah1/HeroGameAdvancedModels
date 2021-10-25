@@ -1,9 +1,10 @@
 using System;
 using Xunit;
+using HeroGameAdvancedLib;
 
 namespace HeroGameAdvancedTests
 {
-    public class UnitTest1
+    public class DiceTests
     {
         [Fact]
         public void Test1()
