@@ -30,8 +30,6 @@
         "net5.0"
       ],
       "sources": {
-        "/Users/anguyen/.nuget/NuGet/Microsoft.EntityFrameworkCore.Design": {},
-        "/Users/anguyen/.nuget/NuGet/microsoft.entityframework.tools": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
