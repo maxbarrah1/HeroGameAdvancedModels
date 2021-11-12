@@ -54,8 +54,15 @@ namespace HeroGameAdvancedLib {
         private Random rand = new Random();
 
         public Dice (int min, int max) {
-            this.Min = min;
-            this.Max = max;
+           
+            if (max >= min){
+                this.Min = min;
+                this.Max = max;
+            }
+            else {
+                this.Min = Max;
+                this.Max = Min;
+            }
         }
 
         // Roll returns an integer between Min and Max inclusive
