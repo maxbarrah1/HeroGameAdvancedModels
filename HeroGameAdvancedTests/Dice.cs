@@ -13,3 +13,5 @@ namespace HeroGameAdvancedTests
         }
     }
 }
+
+// Roll returns an integer between Min and Max inclusive

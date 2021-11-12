@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anguyen/Projects/HeroGameAdvancedModels/HeroGameAdvancedLib/HeroGameAdvancedLib.csproj": {}
+    "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj": {}
   },
   "projects": {
-    "/Users/anguyen/Projects/HeroGameAdvancedModels/HeroGameAdvancedLib/HeroGameAdvancedLib.csproj": {
+    "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anguyen/Projects/HeroGameAdvancedModels/HeroGameAdvancedLib/HeroGameAdvancedLib.csproj",
+        "projectUniqueName": "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj",
         "projectName": "HeroGameAdvancedLib",
-        "projectPath": "/Users/anguyen/Projects/HeroGameAdvancedModels/HeroGameAdvancedLib/HeroGameAdvancedLib.csproj",
-        "packagesPath": "/Users/anguyen/.nuget/packages/",
-        "outputPath": "/Users/anguyen/Projects/HeroGameAdvancedModels/HeroGameAdvancedLib/obj/",
+        "projectPath": "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj",
+        "packagesPath": "C:\\Users\\maxba\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/anguyen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\maxba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
