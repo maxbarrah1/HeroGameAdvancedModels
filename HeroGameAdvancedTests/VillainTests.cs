@@ -8,9 +8,10 @@ namespace HeroGameAdvancedTests
     {
                 
         [Theory]
-        [InlineData(0, 1)]
-        [InlineData(3, 3)]
-        [InlineData(2, 15)]
+        [InlineData(19, 1)]
+        [InlineData(17, 3)]
+        [InlineData(5, 15)]
+        [InlineData(5, -1)]
         
         public void Test(int expected, int input)
         {
