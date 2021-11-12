@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj": {}
+    "C:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj": {}
   },
   "projects": {
-    "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj": {
+    "C:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj",
+        "projectUniqueName": "C:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj",
         "projectName": "HeroGameAdvancedLib",
-        "projectPath": "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj",
+        "projectPath": "C:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\HeroGameAdvancedLib.csproj",
         "packagesPath": "C:\\Users\\maxba\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\obj\\",
+        "outputPath": "C:\\Users\\maxba\\OneDrive\\Documents\\Github\\HeroGameAdvancedModels\\HeroGameAdvancedLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxba\\AppData\\Roaming\\NuGet\\NuGet.Config",
